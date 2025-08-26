@@ -1,0 +1,17 @@
+#EXTM3U
+
+# SwimRewind Stream
+#EXTINF:-1,SwimRewind
+https://swimrewind.com/hls/stream.m3u8
+
+# Toonami Aftermath – EST
+#EXTINF:-1,Toonami Aftermath EST
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
+
+# Toonami Aftermath – PST
+#EXTINF:-1,Toonami Aftermath PST
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
+
+# RetroBlast Stream
+#EXTINF:-1,RetroBlast
+https://retroblast.tv/hls/stream.m3u8
